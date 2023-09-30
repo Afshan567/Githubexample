@@ -7,5 +7,7 @@ public class GitTest {
 public void book()
 {
 	System.out.println("book method");
+	System.out.println("book method2");
+
 }
 }
